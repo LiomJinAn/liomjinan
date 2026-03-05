@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **LiomJinAn/liomjinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My username is LiomJinAn, but you can call me Liom or Kingsley.
+I am also an oier.
+In 2025, I got second prize.(CSP-J2)
+I am outgoing and humorous because I love telling jokes😄.
+I am glad to make friends with **you**!
